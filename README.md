@@ -1,7 +1,7 @@
 # ✈️ Flight Delays ML 
 
 A data analytics & machine learning project built in Python to predict **flight arrival delays (≥15 minutes)** and analyze the key operational and temporal factors influencing them.  
-This repository is structured as a **portfolio-ready project**, combining exploratory data analysis (EDA), feature engineering, model training, and explainability using SHAP.
+This repository is combining exploratory data analysis (EDA), feature engineering, model training, and explainability using SHAP.
 
 ---
 
